@@ -73,7 +73,7 @@ jetons = {
 # 1 . le script remplie une list par
 # les key de dic jetons multiplier par chaque value
 
-# 2 . from random import randint
+# 2 . from random import sample
 
 L_jetons = []
 
